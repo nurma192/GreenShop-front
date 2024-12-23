@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/src/api/order/addOrder.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/api/order/getUserOrders.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/api/shiping/addShippingApi.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/wishlist/addWishlistApi.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/api/wishlist/getWishlistApi.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/api/wishlist/removeFromWishlist.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/BuySection.tsx" afterDir="false" />
@@ -31,6 +30,7 @@
       <change afterPath="$PROJECT_DIR$/src/pages/MyOrdersPage.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/pages/WishlistPage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layout/Layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/Api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/Api.ts" afterDir="false" />
@@ -39,6 +39,7 @@
       <change beforePath="$PROJECT_DIR$/src/api/getAllItemsApi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/getAllItemsApi.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/updateCredentialsApi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/updateCredentialsApi.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/userDataApi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/userDataApi.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/wishlist/addWishlistApi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/wishlist/addWishlistApi.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ImageViewer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageViewer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ItemAllInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ItemAllInfo.tsx" afterDir="false" />

@@ -1,6 +1,6 @@
 import api from "../Api";
 import {useMutation} from "react-query";
-
+1
 const addWishlist = async (itemId: string) => {
     try {
         const response = await api.post(`/wishlists/add`,{
